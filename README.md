@@ -19,6 +19,29 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=decoles&show_icons=true&theme=dracula) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=decoles&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 :-------------------------:|:-------------------------:
 
+## Contributions
+
+### Highlights
+
+* Removed Chico State Branding (Defunct) https://github.com/ChicoState/PantryNode/pull/29
+
+### PantryNode
+
+| Type       | Link                     | Notes                                      |
+|------------|--------------------------|--------------------------------------------|
+| Issue      | ChicoState/PantryNode#29 | Removed All branding (unneeded after)      | 
+| Code Review| ChicoState/PantryNode#43 |Docker readme formatting/rm old instructions| 
+| Code Review| ChicoState/PantryNode#56 | Tested and approved code                   | 
+| Code Review| ChicoState/PantryNode#36 | Made suggestions to update readme          |
+
+### Timeline
+
+* Sprint #1 - Started Feb 27th, 2023
+  - ChicoState/PantryNode#29
+  - ChicoState/PantryNode#36
+  - ChicoState/PantryNode#43
+  - ChicoState/PantryNode#56
+
 
 
 
