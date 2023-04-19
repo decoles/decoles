@@ -45,12 +45,12 @@
 * Sprint #2 - Started March 21st, 2023
 
 * Sprint #3 - Started April 3rd, 2023
- - Updated Figma Summary Page
- - Created Summary Page
- - Modified Donor Page buttons from emojis to material UI icons
- - Created Tables section of Summary page with data
- - Worked with other student on best course of action with summary page
- - Created Summary Page API backend integration issue
+  - Updated Figma Summary Page
+  - Created Summary Page
+  - Modified Donor Page buttons from emojis to material UI icons
+  - Created Tables section of Summary page with data
+  - Worked with other student on best course of action with summary page
+  - Created Summary Page API backend integration issue
 
 * Sprint #4 - Started April 17th, 2023
 
