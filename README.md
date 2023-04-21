@@ -51,6 +51,7 @@
   - Created Tables section of Summary page with data
   - Worked with other student on best course of action with summary page
   - Created Summary Page API backend integration issue
+  - Code Review
 
 * Sprint #4 - Started April 17th, 2023
 
