@@ -44,7 +44,7 @@
 
 * Sprint #2 - Started March 21st, 2023
 
-* Sprint #3 - Started April 3rd, 2023
+* Sprint #3 - Started April 4th, 2023
   - Updated Figma Summary Page
   - Created Summary Page
   - Modified Donor Page buttons from emojis to material UI icons
@@ -53,7 +53,9 @@
   - Created Summary Page API backend integration issue
   - Code Review
 
-* Sprint #4 - Started April 17th, 2023
+* Sprint #4 - Started April 25th, 2023
+  - bug fix
+  - 
 
 
 
