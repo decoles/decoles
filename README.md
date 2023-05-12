@@ -39,8 +39,8 @@
 ### Timeline
 
 * Sprint #1 - Started Feb 28th, 2023
-  - https://github.com/ChicoState/PantryNode/issues/24
-  - ChicoState/PantryNode#29
+  - IS - https://github.com/ChicoState/PantryNode/issues/24
+  - PG - ChicoState/PantryNode#29
   - CR - ChicoState/PantryNode#36
   - CR - ChicoState/PantryNode#43
   - CR - ChicoState/PantryNode#56
@@ -48,12 +48,11 @@
   - CR - https://github.com/ChicoState/PantryNode/pull/34
   - CR - https://github.com/ChicoState/PantryNode/pull/27
 * Sprint #2 - Started March 21st, 2023
-  - https://github.com/ChicoState/PantryNode/pull/53
+  - CR - https://github.com/ChicoState/PantryNode/pull/53
 * Sprint #3 - Started April 4th, 2023
   - PR - https://github.com/ChicoState/PantryNode/pull/142
   - NP - [Figma Update](https://www.figma.com/file/Ioe4ZC15X3NFJMSZPHeuPr/Pantry-Node-team-library?type=design&node-id=0-1&t=hr0ugasbmrFkZ9AQ-0)
   - PG - https://github.com/ChicoState/PantryNode/pull/125
-  - DC - In class discussion about summary page
   - DC - https://github.com/ChicoState/PantryNode/issues/91
   - DC - https://github.com/ChicoState/PantryNode/issues/152
 * Sprint #4 - Started April 17th, 2023
