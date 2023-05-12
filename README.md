@@ -60,14 +60,14 @@
   - BF - https://github.com/ChicoState/PantryNode/pull/195
   - CR - https://github.com/ChicoState/PantryNode/pull/172
 * Sprint #5 - Started May 2nd, 2023
-  - May 3rd resolved #189
+  - https://github.com/ChicoState/PantryNode/issues/189
   - PG - https://github.com/ChicoState/PantryNode/pull/228
   - CR - https://github.com/ChicoState/PantryNode/pull/229
 
 - **NP** - Non-programming - Contribution that is not related to code
 - **PG** - Programming - Contribution.
 - **CR** - CodeReview - I reviewed someone's change.
-- **BL** - BugLogging - I filed a GitHub Issue.
+- **IS** - Issue - I filed or fixed a GitHub Issue.
 - **DC** - Discussion - I started a discussion or discussed a topic relevant to the project
 
 
