@@ -46,7 +46,7 @@
 
 * Sprint #3 - Started April 4th, 2023
   - Updated Figma Summary Page
-  - Created Summary Page with [abhilashSreenivasa]https://github.com/abhilashSreenivasa
+  - Created Summary Page with [abhilashSreenivasa](https://github.com/abhilashSreenivasa)
   - Modified Donor Page buttons from emojis to material UI icons
   - Created Tables section of Summary page with data
   - Worked with other student on best course of action with summary page
