@@ -50,16 +50,16 @@
 * Sprint #2 - Started March 21st, 2023
   - CR - https://github.com/ChicoState/PantryNode/pull/53
 * Sprint #3 - Started April 4th, 2023
-  - PR - https://github.com/ChicoState/PantryNode/pull/142
+  - PG - https://github.com/ChicoState/PantryNode/pull/142
   - NP - [Figma Update](https://www.figma.com/file/Ioe4ZC15X3NFJMSZPHeuPr/Pantry-Node-team-library?type=design&node-id=0-1&t=hr0ugasbmrFkZ9AQ-0)
   - PG - https://github.com/ChicoState/PantryNode/pull/125
   - DC - https://github.com/ChicoState/PantryNode/issues/91
-  - DC - https://github.com/ChicoState/PantryNode/issues/152
+  - IS - https://github.com/ChicoState/PantryNode/issues/152
 * Sprint #4 - Started April 17th, 2023
   - BF - https://github.com/ChicoState/PantryNode/pull/195
   - CR - https://github.com/ChicoState/PantryNode/pull/172
 * Sprint #5 - Started May 2nd, 2023
-  - https://github.com/ChicoState/PantryNode/issues/189
+  - IS - https://github.com/ChicoState/PantryNode/issues/189
   - PG - https://github.com/ChicoState/PantryNode/pull/228
   - CR - https://github.com/ChicoState/PantryNode/pull/229
 
@@ -68,5 +68,6 @@
 - **CR** - CodeReview - I reviewed someone's change.
 - **IS** - Issue - I filed or fixed a GitHub Issue.
 - **DC** - Discussion - I started a discussion or discussed a topic relevant to the project
+- **BF** - Bug Fix
 
 
