@@ -53,6 +53,8 @@
   - Created Summary Page API backend integration issue
   - Code Review
 
+*
+  - Created issue https://github.com/ChicoState/PantryNode/issues/152
 * Sprint #4 - Started April 25th, 2023
   - bug fix
   - frontend visual update
