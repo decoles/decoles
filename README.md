@@ -23,7 +23,9 @@
 
 ### Highlights
 
-* Removed Chico State Branding (Defunct) https://github.com/ChicoState/PantryNode/pull/29
+* Created Summary Page & Tables w/[abhilashSreenivasa](https://github.com/abhilashSreenivasa) https://github.com/ChicoState/PantryNode/pull/142
+* Site wide styling unification https://github.com/ChicoState/PantryNode/pull/228
+* Found workaround for docker-compose up command not installing dependencies https://github.com/ChicoState/PantryNode/pull/195 
 
 ### PantryNode
 
@@ -37,33 +39,35 @@
 ### Timeline
 
 * Sprint #1 - Started Feb 28th, 2023
+  - https://github.com/ChicoState/PantryNode/issues/24
   - ChicoState/PantryNode#29
-  - ChicoState/PantryNode#36
-  - ChicoState/PantryNode#43
-  - ChicoState/PantryNode#56
-
+  - CR - ChicoState/PantryNode#36
+  - CR - ChicoState/PantryNode#43
+  - CR - ChicoState/PantryNode#56
+  - CR - ChicoState/PantryNode#58
+  - CR - https://github.com/ChicoState/PantryNode/pull/34
+  - CR - https://github.com/ChicoState/PantryNode/pull/27
 * Sprint #2 - Started March 21st, 2023
-
+  - https://github.com/ChicoState/PantryNode/pull/53
 * Sprint #3 - Started April 4th, 2023
-  - Updated Figma Summary Page
-  - Created Summary Page with [abhilashSreenivasa](https://github.com/abhilashSreenivasa)
-  - Modified Donor Page buttons from emojis to material UI icons
-  - Created Tables section of Summary page with data
-  - Worked with other student on best course of action with summary page
-  - Created Summary Page API backend integration issue
-  - Code Review
- 
-
-*
-  - Created issue https://github.com/ChicoState/PantryNode/issues/152
+  - PR - https://github.com/ChicoState/PantryNode/pull/142
+  - NP - [Figma Update](https://www.figma.com/file/Ioe4ZC15X3NFJMSZPHeuPr/Pantry-Node-team-library?type=design&node-id=0-1&t=hr0ugasbmrFkZ9AQ-0)
+  - PG - https://github.com/ChicoState/PantryNode/pull/125
+  - DC - In class discussion about summary page
+  - DC - https://github.com/ChicoState/PantryNode/issues/91
+  - DC - https://github.com/ChicoState/PantryNode/issues/152
 * Sprint #4 - Started April 17th, 2023
-  - bug fix
-  - frontend visual update
-
+  - BF - https://github.com/ChicoState/PantryNode/pull/195
+  - CR - https://github.com/ChicoState/PantryNode/pull/172
 * Sprint #5 - Started May 2nd, 2023
- - May 3rd resolved #189
+  - May 3rd resolved #189
+  - PG - https://github.com/ChicoState/PantryNode/pull/228
+  - CR - https://github.com/ChicoState/PantryNode/pull/229
 
-
-
+- **NP** - Non-programming - Contribution that is not related to code
+- **PG** - Programming - Contribution.
+- **CR** - CodeReview - I reviewed someone's change.
+- **BL** - BugLogging - I filed a GitHub Issue.
+- **DC** - Discussion - I started a discussion or discussed a topic relevant to the project
 
 
