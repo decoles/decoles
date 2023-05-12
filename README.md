@@ -36,7 +36,7 @@
 
 ### Timeline
 
-* Sprint #1 - Started Feb 27th, 2023
+* Sprint #1 - Started Feb 28th, 2023
   - ChicoState/PantryNode#29
   - ChicoState/PantryNode#36
   - ChicoState/PantryNode#43
@@ -52,14 +52,16 @@
   - Worked with other student on best course of action with summary page
   - Created Summary Page API backend integration issue
   - Code Review
-  - May 3rd resolved #189
+ 
 
 *
   - Created issue https://github.com/ChicoState/PantryNode/issues/152
-* Sprint #4 - Started April 25th, 2023
+* Sprint #4 - Started April 17th, 2023
   - bug fix
   - frontend visual update
 
+* Sprint #5 - Started May 2nd, 2023
+ - May 3rd resolved #189
 
 
 
