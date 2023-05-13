@@ -79,11 +79,11 @@
   - PG - https://github.com/ChicoState/PantryNode/pull/228
   - CR - https://github.com/ChicoState/PantryNode/pull/229
 
-- **NP** - Non-programming - Contribution that is not related to code
-- **PG** - Programming - Contribution.
-- **CR** - CodeReview - I reviewed someone's change.
-- **IS** - Issue - I filed or fixed a GitHub Issue.
-- **DC** - Discussion - I started a discussion or discussed a topic relevant to the project
-- **BF** - Bug Fix
+- **NP** - Non-programming - Contribution that is not related to code.
+- **PG** - Programming - Code Contribution.
+- **CR** - CodeReview - Reviewed others changes.
+- **IS** - Issue - Filed or fixed an issue.
+- **DC** - Discussion - I started a discussion or discussed a topic relevant to the project.
+- **BF** - Bug Fix - Found a bug and fixed it through PR.
 
 
