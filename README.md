@@ -23,18 +23,34 @@
 
 ### Highlights
 
-* Created Summary Page & Tables w/[abhilashSreenivasa](https://github.com/abhilashSreenivasa) https://github.com/ChicoState/PantryNode/pull/142
-* Site wide styling unification https://github.com/ChicoState/PantryNode/pull/228
+* Created Summary Page & Tables w/[abhilashSreenivasa](https://github.com/abhilashSreenivasa) https://github.com/ChicoState/PantryNode/pull/142 that included mobile compatibliity, site themes, and scrolling data views.
+* Site wide styling unification with tables and themes updated & fixes for broken appearance on mobile https://github.com/ChicoState/PantryNode/pull/228
 * Found workaround for docker-compose up command not installing dependencies https://github.com/ChicoState/PantryNode/pull/195 
 
 ### PantryNode
 
 | Type       | Link                     | Notes                                      |
 |------------|--------------------------|--------------------------------------------|
-| Issue      | ChicoState/PantryNode#29 | Removed All branding (unneeded after)      | 
-| Code Review| ChicoState/PantryNode#43 |Docker readme formatting/rm old instructions| 
+| Programming      | ChicoState/PantryNode#29 | Removed All branding (unneeded after)      | 
+| Issue   | https://github.com/ChicoState/PantryNode/issues/24 | Retired Uneeded Issue |
+| Code Review| ChicoState/PantryNode#43 | Docker readme formatting/rm old instructions| 
 | Code Review| ChicoState/PantryNode#56 | Tested and approved code                   | 
 | Code Review| ChicoState/PantryNode#36 | Made suggestions to update readme          |
+| Code Review| https://github.com/ChicoState/PantryNode/pull/58 | Approved new contribution policy |
+| Code Review | https://github.com/ChicoState/PantryNode/pull/34 | Approved MVP containerizaton | 
+| Code Review | https://github.com/ChicoState/PantryNode/pull/27 | Approved, moved to newPR |
+| Code Review | https://github.com/ChicoState/PantryNode/pull/53 | Linter issues resovled |
+| Programming | https://github.com/ChicoState/PantryNode/pull/142 | Built summary page w/[abhilashSreenivasa](https://github.com/abhilashSreenivasa) |
+| Non-Programming | [Figma Update](https://www.figma.com/file/Ioe4ZC15X3NFJMSZPHeuPr/Pantry-Node-team-library?type=design&node-id=0-1&t=hr0ugasbmrFkZ9AQ-0) | Updated Summary Page on Figma |
+| Programming | https://github.com/ChicoState/PantryNode/pull/125 | Added MaterialUI icons over emojis |
+| Discussion | https://github.com/ChicoState/PantryNode/issues/91 | Discussed Summary Page approach |
+| Issue | https://github.com/ChicoState/PantryNode/issues/152 | Issue started for adding backend API to summary |
+| Bug Fix | https://github.com/ChicoState/PantryNode/pull/195 | Updated readme to include troubleshooting on docker build bug |
+| Code Review | https://github.com/ChicoState/PantryNode/pull/172 | ReadMe updates |
+| Issue | https://github.com/ChicoState/PantryNode/issues/189 | Resolved old issue |
+| Programming | https://github.com/ChicoState/PantryNode/pull/228 | Updated themes & mobile compatibility |
+| Code Review | https://github.com/ChicoState/PantryNode/pull/229 | Approved feed testing |
+| Discussion | NONE | Inclass discussions w/[hardikpatil](https://github.com/hardikpatil) with code walkthrough
 
 ### Timeline
 
