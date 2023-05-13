@@ -2,7 +2,7 @@
 
 ### Highlights
 
-* Created Summary Page & Tables w/[abhilashSreenivasa](https://github.com/abhilashSreenivasa) https://github.com/ChicoState/PantryNode/pull/142 that included mobile compatibliity, site themes, and scrolling data views.
+* Created Summary Page & Tables w/[abhilashSreenivasa](https://github.com/abhilashSreenivasa) that included mobile compatibliity, site themes, and scrolling data views https://github.com/ChicoState/PantryNode/pull/142.
 * Site wide styling unification with tables and themes updated & fixes for broken appearance on mobile https://github.com/ChicoState/PantryNode/pull/228
 * Found workaround for docker-compose up command not installing dependencies https://github.com/ChicoState/PantryNode/pull/195 
 
